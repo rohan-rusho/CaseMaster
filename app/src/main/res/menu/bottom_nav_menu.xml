@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_text_to_upper"
+        android:title="Text → UP"
+        android:icon="@drawable/upp" />
+
+    <item
+        android:id="@+id/nav_text_to_lower"
+        android:title="Text → LOW"
+        android:icon="@drawable/lower" />
+
+    <item
+        android:id="@+id/nav_text_to_title"
+        android:title="Text → Title"
+        android:icon="@drawable/title" />
+
+    <item
+        android:id="@+id/nav_text_to_reverse"
+        android:title="Text → Reverse"
+        android:icon="@drawable/rev" />
+
+</menu>
